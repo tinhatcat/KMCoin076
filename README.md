@@ -25,3 +25,6 @@ Sync with Chain
 To sync with chain do command !sync in the kmcbot-chat
 located in the discord channel at discord.gg/thekittymine
 Download the files and click 'Ready'.
+
+
+*The jar will execute from any directory.
